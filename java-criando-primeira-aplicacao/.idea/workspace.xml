@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71e885af-b8d7-49ca-856d-d14ef11e4047" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/exercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeiro-projeto/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeiro-projeto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeiro-projeto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeiro-projeto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeiro-projeto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeiro-projeto/primeiro-projeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeiro-projeto/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/screenmatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/models/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/models/Titulo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/exercicios" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jA8bQRErnNlcVAUwHOK5wmf6xX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DesafioAudioPrincilal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExercicioPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExercicioPrincipal2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/cursos/ALURA/java-criando-primeira-aplicacao&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="exercicios.alura.modelos" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71e885af-b8d7-49ca-856d-d14ef11e4047" name="Changes" comment="" />
+      <created>1720818591203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720818591203</updated>
+    </task>
+    <servers />
+  </component>
+</project>
